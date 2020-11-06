@@ -15,3 +15,7 @@ contoh di bawah ini
 1.Bilangan Pertama yang menjadi bilangan terbesar.
 
 ![screen 3](/gambar/screen3.png)
+
+2.Bilangan Kedua yang menjadi bilangan terbesar.
+
+![screen 4](/gambar/screen4.png)
