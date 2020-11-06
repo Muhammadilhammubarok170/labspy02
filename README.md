@@ -11,3 +11,7 @@ Berikut dibawah ini Flowchart dari program tersebut
 contoh di bawah ini 
 
 ![screen 2](/gambar/screen2.png)
+
+1.Bilangan Pertama yang menjadi bilangan terbesar.
+
+![screen 3](/gambar/screen3.png)
