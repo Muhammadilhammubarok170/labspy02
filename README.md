@@ -1,4 +1,5 @@
 # labspy02
+Muhammad Ilham Mubarok - 312010278
 
 Algoritma menentukan nilai terbeasar dari 3 buah bilangan.
 
@@ -19,3 +20,7 @@ contoh di bawah ini
 2.Bilangan Kedua yang menjadi bilangan terbesar.
 
 ![screen 4](/gambar/screen4.png)
+
+3.Bilangan Ketiga sebagai bilangan terbesar.
+
+![screen 5](/gambar/screen5.png)
